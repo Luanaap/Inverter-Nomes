@@ -1,0 +1,8 @@
+C:\Luana-cursos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Luana-cursos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Luana-cursos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Luana-cursos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\Luana-cursos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Luana-cursos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb
